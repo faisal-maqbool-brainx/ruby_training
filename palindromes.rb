@@ -13,5 +13,5 @@ def palindromes(string)
   palindromes_array
 end
 
-abc = 'abbacdefacabbadabc'
+abc = 'abbacdefacabbadabcdbb'
 puts palindromes abc
